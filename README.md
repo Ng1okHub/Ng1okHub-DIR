@@ -14,6 +14,7 @@
 - [U3D 手遊 Dump SDK 常規思路](articles/02_U3D手遊Dump%20SDK常規思路/readme.md)
 - [如何快速繞過 Appdome 的注入檢測](articles/03_如何快速繞過Appdome的注入檢測/readme.md)
 - [Frida 魔改集成 wxshadow 記錄](articles/04_Frida魔改集成wxshadow記錄/readme.md)
+- [gcash有趣的注入檢測分析](articles/05_gcash有趣的注入檢測分析/readme.md)
 
 ## 🔧 工具
 
