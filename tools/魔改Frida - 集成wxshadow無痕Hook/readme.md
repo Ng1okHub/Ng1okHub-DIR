@@ -15,9 +15,6 @@
 2. hunter  
 ![Hunter](images/hunter-boundary.png)
 
-3. gcash (Appdome)  
-![gcash](images/gcash-frida-test.png)
-
 
 ## 🎯 適用場景
 
