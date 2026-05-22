@@ -8,7 +8,7 @@
 - 去掉frida各種特徵
 
 ## 🪟 測試樣本
-
+注: 只在P6, Android13, Kernel5.10上進行過測試, 其他機型/版本大概率用不了
 1. 8ball (Appdome)  
 ![Appdome 樣本下的 hook 結果](images/appdome-result.png)
 
