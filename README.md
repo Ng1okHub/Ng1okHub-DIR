@@ -18,8 +18,6 @@
 
 ## 🔧 工具
 
-注: 工具只提供用法和二進制文件
-
-- [nggtrace - 基於 QBDI 的調用流 trace 工具](tools/nggtrace%20-%20基於QBDI的調用流trace工具/readme.md)
-- [內核模塊 - 隱藏 (s)maps 中的特徵](tools/內核模塊%20-%20隱藏(s)maps中的特徵/readme.md)
-- [魔改 Frida - 集成 wxshadow 無痕 Hook](tools/魔改Frida%20-%20集成wxshadow無痕Hook/readme.md)
+- [nggtrace - 基於 QBDI 的調用流 trace 工具 (暫不提供源碼)](tools/nggtrace%20-%20基於QBDI的調用流trace工具/readme.md)
+- [內核模塊 - 隱藏 (s)maps 中的特徵 (提供源碼)](tools/內核模塊%20-%20隱藏(s)maps中的特徵/readme.md)
+- [魔改 Frida - 集成 wxshadow 無痕 Hook (提供源碼)](tools/魔改Frida%20-%20集成wxshadow無痕Hook/readme.md)
