@@ -13,16 +13,16 @@
 
 ## 📚 文章
 
-- [Appdome 分析与绕过(完整)](articles/01_Appdome分析与绕过(完整)/readme.md)
-- [U3D 手游 Dump SDK 常规思路](articles/02_U3D手游Dump%20SDK常规思路/readme.md)
-- [如何快速绕过 Appdome 的注入检测](articles/03_如何快速绕过Appdome的注入检测/readme.md)
-- [Frida 魔改集成 wxshadow 记录](articles/04_Frida魔改集成wxshadow记录/readme.md)
-- [gcash有趣的注入检测分析](articles/05_gcash有趣的注入检测分析/readme.md)
+- [Appdome 分析与绕过(完整)](articles/01_Appdome分析與繞過(完整)/readme.md)
+- [U3D 手游 Dump SDK 常规思路](articles/02_U3D手遊Dump%20SDK常規思路/readme.md)
+- [如何快速绕过 Appdome 的注入检测](articles/03_如何快速繞過Appdome的注入檢測/readme.md)
+- [Frida 魔改集成 wxshadow 记录](articles/04_Frida魔改集成wxshadow記錄/readme.md)
+- [gcash有趣的注入检测分析](articles/05_gcash有趣的注入檢測分析/readme.md)
 - [再探nProtect](articles/06_再探nProtect/readme.md)
-- [nProtect检测篇](articles/07_nProtect检测篇/readme.md)
+- [nProtect检测篇](articles/07_nProtect檢測篇/readme.md)
 
 ## 🔧 工具
 
-- [nggtrace - 基于 QBDI 的调用流 trace 工具 (暂不提供源码)](tools/nggtrace%20-%20基于QBDI的调用流trace工具/readme.md)
-- [内核模块 - 隐藏 (s)maps 中的特征 (提供源码)](tools/内核模块%20-%20隐藏(s)maps中的特征/readme.md)
-- [魔改 Frida - 集成 wxshadow 无痕 Hook (提供源码)](tools/魔改Frida%20-%20集成wxshadow无痕Hook/readme.md)
+- [nggtrace - 基于 QBDI 的调用流 trace 工具 (暂不提供源码)](tools/nggtrace%20-%20基於QBDI的調用流trace工具/readme.md)
+- [内核模块 - 隐藏 (s)maps 中的特征 (提供源码)](tools/內核模塊%20-%20隱藏(s)maps中的特徵/readme.md)
+- [魔改 Frida - 集成 wxshadow 无痕 Hook (提供源码)](tools/魔改Frida%20-%20集成wxshadow無痕Hook/readme.md)
