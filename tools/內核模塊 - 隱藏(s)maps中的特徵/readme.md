@@ -1,5 +1,7 @@
 # hide_maps：隱藏 maps / smaps 特徵的內核模塊
 
+[📖 繁體中文](readme.md)　|　[📖 简体中文](readme_cn.md)
+
 這是一個針對 `/proc/<pid>/maps` 與 `/proc/<pid>/smaps` 可見特徵做處理的內核模塊。它的價值不在於單純改一行輸出，而在於把一些原本容易被觀察到的 VMA 痕跡收斂掉，讓特徵暴露不再那麼直接。
 
 ## 🧭 它做了什麼

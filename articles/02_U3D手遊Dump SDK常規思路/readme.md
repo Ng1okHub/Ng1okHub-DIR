@@ -1,5 +1,7 @@
 # U3D 手遊 Dump SDK 的常規思路
 
+[📖 繁體中文](readme.md)　|　[📖 简体中文](readme_cn.md)
+
 這篇把 Unity 手遊常見的 SDK Dump 問題分成兩條線來看：靜態 Dump 與動態 Dump。它不是在堆工具清單，而是整理出兩類最常見的阻礙，以及對應能得到的結果。
 
 ## 🧩 Dump 思路

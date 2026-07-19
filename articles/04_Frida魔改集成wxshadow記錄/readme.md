@@ -1,5 +1,7 @@
 # 🪝 Frida 魔改接入 wxshadow：把常見 Hook 痕跡壓到更低
 
+[📖 繁體中文](readme.md)　|　[📖 简体中文](readme_cn.md)
+
 這篇內容不是單純記一次 patch，而是把 Frida 接入 wxshadow 時真正會卡住的幾個關鍵點拆開整理：從 patch 方式本身，到 `libart.so` 的 huge PMD 兼容，再到系統庫默認 hook、maps 與 `memfd` 這些容易留下特徵的位置。
 
 它的價值在於，文章不只停在「改過了」，而是把哪些部分已經推進、哪些只做到局部收斂、哪些仍然留有缺口說清楚。對想把 Frida 行為收斂得更可控的人來說，這種邊界感比單點技巧更重要。
