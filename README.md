@@ -20,6 +20,7 @@
 - [gcash有趣的注入檢測分析](articles/05_gcash有趣的注入檢測分析/readme.md)
 - [再探nProtect](articles/06_再探nProtect/readme.md)
 - [nProtect檢測篇](articles/07_nProtect檢測篇/readme.md)
+- [LIAPP保護分析](articles/08_LIAPP保護分析/readme.md)
 
 ## 🔧 工具
 
